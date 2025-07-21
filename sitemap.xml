@@ -7,6 +7,90 @@
 >
 
 <url>
+ <loc>http://jekyllrb.com</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-07-21</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://mademistakes.com/work/minimal-mistakes-jekyll-theme/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-07-21</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>mailto:jianfeng9512@gmail.com</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-07-21</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://www.hkubs.hku.hk/people/shiyang-huang/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-07-21</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://www.hkubs.hku.hk/people/jiantao-huang/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-07-21</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>http://insurance.uibe.edu.cn/szdw/yxjs/fxglybxxx/38182376dffc47c3a37f99756f9cc39c.htm</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-07-21</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://liuxin12.wixsite.com/mysite</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-07-21</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>http://yifeimao.s3-website-us-west-1.amazonaws.com/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-07-21</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://www.hongxiangv.com/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-07-21</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://www.sciencedirect.com/science/article/abs/pii/S0304405X25001187</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-07-21</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4047776</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-07-21</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://github.com/academicpages/academicpages.github.io</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-07-21</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
  <loc>https://jianfeng9512.github.io//</loc>
  <priority>0.3</priority>
  <lastmod>2025-07-21</lastmod>
