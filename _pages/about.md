@@ -24,13 +24,13 @@ Working Papers
 * Link-Firm Characteristics Are Covariances: An IPCA Approach to Economic Linkages (Job Market Paper)  
 [[Link]](https://drive.google.com/file/d/1EwPBjxdPXibck5zn0-2Jh_g3XFCJ5OAF/view?usp=drive_link)
 
-* Hiding in Plain Sight: Decoding the Alpha behind Monthly Industry-Level Inflation News (with [Shiyang Huang](https://www.hkubs.hku.hk/people/shiyang-huang/), [Charles M. C. Lee](https://www.gsb.stanford.edu/faculty-research/faculty/charles-m-lee), and [Yang Song](https://foster.uw.edu/faculty-research/directory/yang-song/)  
+* Hiding in Plain Sight: Decoding the Alpha behind Monthly Industry-Level Inflation News (with [Shiyang Huang](https://www.hkubs.hku.hk/people/shiyang-huang/), [Charles M. C. Lee](https://www.gsb.stanford.edu/faculty-research/faculty/charles-m-lee), and [Yang Song](https://foster.uw.edu/faculty-research/directory/yang-song/))  
 [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4907871)
 
 * Conditional Asset Pricing with Text-Managed Portfolios (with [Jiantao Huang](https://www.hkubs.hku.hk/people/jiantao-huang/), [Shiyang Huang](https://www.hkubs.hku.hk/people/shiyang-huang/), and [Ran Shi](https://www.colorado.edu/business/leeds-directory/faculty/ran-shi))  
 [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5111794)
 
-* Endogenous Formation of Guaranteed Loan Networks (with [Shiyang Huang](https://www.hkubs.hku.hk/people/shiyang-huang/), Xinhai Liu, [Dong Lou](https://fina.hkust.edu.hk/faculty/directory/dlou), and [Kathy Yuan](https://www.lse.ac.uk/finance/people/faculty/Yuan))
+* Endogenous Formation of Guaranteed Loan Networks (with [Shiyang Huang](https://www.hkubs.hku.hk/people/shiyang-huang/), Xinhai Liu, [Dong Lou](https://fina.hkust.edu.hk/faculty/directory/dlou), and [Kathy Yuan](https://www.lse.ac.uk/finance/people/faculty/Yuan))  
 Draft available upon request.
 
 
